@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- トップページ -->
   <url>
-    <loc>https://www.japan-stats.com/</loc>
+    <loc>https://www.japan-stats.com</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- ランキング -->
   <url>
     <loc>https://www.japan-stats.com/ranking</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <!-- 診断 -->
   <url>
     <loc>https://www.japan-stats.com/diagnosis</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- コラム一覧 -->
   <url>
     <loc>https://www.japan-stats.com/column</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <!-- コラム記事 -->
   <url>
     <loc>https://www.japan-stats.com/column/divorce-northland</loc>
     <changefreq>monthly</changefreq>
@@ -72,6 +67,11 @@
   </url>
   <url>
     <loc>https://www.japan-stats.com/column/vacancy-crisis</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/埼玉-medical-shortage</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -165,7 +165,181 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- 統計詳細ページ -->
+  <url>
+    <loc>https://www.japan-stats.com/column/population-2040-forecast</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/sleep-time-productivity</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/gyoza-ramen-culture</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/crime-rate-decline</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/nursing-care-insurance</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/blood-donation-civic</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/pachinko-decline</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/reading-time-education</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/j-league-regional</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/sumo-kagoshima</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/snow-days-vs-sunny</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/hot-summer-inland</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/library-education</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/religion-culture-map</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/vacation-home-vacant</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/hospital-count-gap</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/rent-price-map</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/travel-consumption-economy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/single-parent-poverty</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/population-density-life</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/working-age-future</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/saitama-commute-hell</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/osaka-crime-reality</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/tokyo-university-gap</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/fukui-welfare-lowest</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/aichi-income-secret</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/okinawa-divorce-paradox</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/tokyo-birth-rate-lowest</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/kyoto-doctor-paradox</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/vacancy-opportunity</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/water-price-gap</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/obesity-snow-country</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/religion-shimane</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/minimum-wage-real</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/crime-rate-decline-truth</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.japan-stats.com/detail/divorce-rate</loc>
     <changefreq>monthly</changefreq>
@@ -182,22 +356,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.japan-stats.com/detail/vacancy-rate</loc>
+    <loc>https://www.japan-stats.com/detail/unmarried-20s-male</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.japan-stats.com/detail/doctor-count</loc>
+    <loc>https://www.japan-stats.com/detail/unmarried-20s-female</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.japan-stats.com/detail/income</loc>
+    <loc>https://www.japan-stats.com/detail/unmarried-30s-female</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.japan-stats.com/detail/homeownership</loc>
+    <loc>https://www.japan-stats.com/detail/unmarried-40s-male</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/unmarried-40s-female</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/foreigner-rate</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -207,12 +391,102 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.japan-stats.com/detail/welfare-rate</loc>
+    <loc>https://www.japan-stats.com/detail/working-age-rate</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/doctor-count</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/nurse-count</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/dentist-count</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/pharmacist-count</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/hospital-count</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.japan-stats.com/detail/medical-cost</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/care-worker</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/nursery-worker</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/police-count</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/firefighter-count</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/welfare-rate</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/nursery-waiting</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/health-insurance</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/care-insurance</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/vacancy-rate</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/homeownership</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/house-floor-area</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/income</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/detail/agriculture</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
