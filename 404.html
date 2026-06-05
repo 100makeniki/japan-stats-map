@@ -4,8 +4,17 @@
   <meta charset="utf-8">
   <title>日本のいろんな統計マップ</title>
   <script>
-    sessionStorage.redirect = location.href;
+    (function() {
+      var path = location.pathname.replace('/japan-stats-map', '');
+      var search = location.search;
+      var hash = location.hash;
+      if (location.hostname === '100makeniki.github.io') {
+        location.replace('https://www.japan-stats.com' + path + search + hash);
+      } else {
+        sessionStorage.redirect = location.href;
+        location.replace('/');
+      }
+    })();
   </script>
-  <meta http-equiv="refresh" content="0;URL='/'">
 </head>
 </html>
