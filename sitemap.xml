@@ -1687,6 +1687,36 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.japan-stats.com/column/shiga-appeal</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/toyama-appeal</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/fukui-appeal</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/saga-appeal</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.japan-stats.com/column/kochi-appeal</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.japan-stats.com/column/n25f5c9429436</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
